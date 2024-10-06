@@ -2,6 +2,8 @@
 
 # Pinax Notifications
 
+This repo was forked to fix compatibility issues with geonode and django 4.2.x. Geonode 4.3.1 now is fully compatible, so, i have to archive this repo and delete it on Jan 2025.
+
 [![](https://img.shields.io/pypi/v/pinax-notifications.svg)](https://pypi.python.org/pypi/pinax-notifications/)
 
 [![CircleCi](https://img.shields.io/circleci/project/github/pinax/pinax-notifications.svg)](https://circleci.com/gh/pinax/pinax-notifications)
